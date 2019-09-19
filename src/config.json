@@ -1,0 +1,10 @@
+{
+  "width": 1280,
+  "height": 720,
+  "perspective": {
+    "fov": 30.0,
+    "near": 0.01,
+    "far": 20.0
+  },
+  "cameraZ": 2.0
+}
