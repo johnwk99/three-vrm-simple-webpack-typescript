@@ -2,7 +2,7 @@
   "name": "three-vrm-simple-webpack-typescript",
   "version": "0.1.0",
   "main": "index.js",
-  "description": "Very sample example of @pixiv/three-vrm",
+  "description": "Very simple example of @pixiv/three-vrm",
   "license": "MIT",
   "scripts": {
     "dev": "webpack-dev-server --mode development"
